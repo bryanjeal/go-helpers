@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "vE43s37+4CJ2CDU6TlOUOYE0K9c=",
+			"path": "golang.org/x/crypto/bcrypt",
+			"revision": "77014cf7f9bde4925afeed52b7bf676d5f5b4285",
+			"revisionTime": "2017-01-31T17:37:52Z"
+		},
+		{
+			"checksumSHA1": "JsJdKXhz87gWenMwBeejTOeNE7k=",
+			"path": "golang.org/x/crypto/blowfish",
+			"revision": "77014cf7f9bde4925afeed52b7bf676d5f5b4285",
+			"revisionTime": "2017-01-31T17:37:52Z"
+		}
+	],
+	"rootPath": "github.com/bryanjeal/go-helpers"
+}
