@@ -57,8 +57,6 @@ func (r rflct) ToString(v reflect.Value) string {
 	return ""
 }
 
-var ()
-
 func (r rflct) ToTimeUnix(v reflect.Value) int64 {
 	if v.Kind() == reflect.Interface {
 		return r.ToTimeUnix(v.Elem())
